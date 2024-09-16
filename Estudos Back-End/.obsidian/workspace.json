@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "f9a75b65f76f1648",
+    "type": "split",
+    "children": [
+      {
+        "id": "365ac42b0c2caf1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2e3c64264e61b1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Back-End/Básico/Como Funciona HTTP/0. HTML.canvas",
+                "viewState": {
+                  "x": -31,
+                  "y": 190,
+                  "zoom": -0.608735562481392
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "329c7d3b6ffe1d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "4697dddecaa2cb48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e90fedd79b2942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2324429d7d082d50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4b1ff373636489d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84ff1cea4fe14def",
+    "type": "split",
+    "children": [
+      {
+        "id": "530c35c1ff35f832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d47dff5d5684b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Back-End/Básico/Como Funciona HTTP/0. HTML.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80a9163bd4cb50a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Back-End/Básico/Como Funciona HTTP/0. HTML.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ed530d911419434",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ddf55e0eda01df3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Back-End/Básico/Como Funciona HTTP/0. HTML.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3e2e3c64264e61b1",
+  "lastOpenFiles": [
+    "Back-End/Básico/Como Funciona HTTP/1. Introdução.md",
+    "Imagens/Pasted image 20240916155633.png",
+    "Imagens/Pasted image 20240916145151.png",
+    "Back-End/Básico/Como Funciona HTTP/0. HTML.canvas",
+    "Imagens/Pasted image 20240916142734.png",
+    "Imagens/Pasted image 20240916130510.png",
+    "Back-End/Básico/Como Funciona HTTP/3. HTTP Request Methods.md",
+    "Back-End/Básico/Como Funciona HTTP/4. Método de solicitação GET.md",
+    "Imagens",
+    "Imagens/Pasted image 20240916120925.png",
+    "Pasted image 20240916130413.png",
+    "Pasted image 20240916120935.png.md",
+    "Imagens",
+    "Pasted image 20240916120935.png",
+    "Back-End/Básico/Como Funciona HTTP/HTTP Request Methods.md",
+    "Back-End/Básico/Como Funciona HTTP/2. Servidor Apache HTTP ou Servidor Apache Tomcat.md",
+    "Back-End/Básico/Como Funciona HTTP/Servidor Apache HTTP ou Servidor Apache Tomcat.md",
+    "Back-End/Básico/Como Funciona HTTP/metodo.md",
+    "Sem título.canvas",
+    "Back-End/Básico/Como Funciona HTTP/Introdução",
+    "Back-End/Básico/Como Funciona HTTP/Modal/Sem título.md",
+    "Back-End/Básico/Como Funciona HTTP/Modal",
+    "Back-End/Básico/Como Funciona HTTP",
+    "Back-End/Básico/Sem título.md",
+    "Back-End/Básico.canvas",
+    "Back-End/Básico",
+    "create a link.md",
+    "Back-End",
+    "Welcome.md",
+    "Sem título 1.canvas"
+  ]
+}
