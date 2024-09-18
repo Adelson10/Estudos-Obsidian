@@ -11,8 +11,12 @@
             "id": "b89e85cf5d2fa753",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md"
+              }
             }
           }
         ]
