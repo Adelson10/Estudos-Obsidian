@@ -11,11 +11,14 @@
             "id": "0020aab1fbe0e963",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
-                "mode": "source",
-                "source": false
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
+                "viewState": {
+                  "x": 24.85823950870011,
+                  "y": 461.8833162743091,
+                  "zoom": -0.6769639861735943
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md"
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas"
               }
             }
           }
@@ -149,15 +152,16 @@
   "active": "0020aab1fbe0e963",
   "lastOpenFiles": [
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Métodos de solicitação HTTP.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md",
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/3. Mensagens de solicitação e resposta HTTP.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/2. Servidor Apache HTTP ou Servidor Apache Tomcat.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/1. Introdução.md",
     "Estudos Back-End/Imagens/Pasted image 20240916221935.png",
     "Estudos Back-End/Imagens/Pasted image 20240916213214.png",
     "Estudos Back-End/Imagens/Pasted image 20240916212133.png",
     "Estudos Back-End/Imagens/Pasted image 20240916204608.png",
-    "Estudos Back-End/Imagens/Pasted image 20240916204336.png",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/2. Servidor Apache HTTP ou Servidor Apache Tomcat.md"
+    "Estudos Back-End/Imagens/Pasted image 20240916204336.png"
   ]
 }
