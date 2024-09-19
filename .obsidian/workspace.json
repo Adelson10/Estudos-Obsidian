@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b47aa49d63623858",
+    "id": "6a64233198e5296a",
     "type": "split",
     "children": [
       {
-        "id": "529dc4518a2ce5c2",
+        "id": "081a7525c563311e",
         "type": "tabs",
         "children": [
           {
-            "id": "0020aab1fbe0e963",
+            "id": "4f667b7f81d9c75f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f01720a478c96b07",
+    "id": "b4c2fcbe109f37ae",
     "type": "split",
     "children": [
       {
-        "id": "d245766ba126dda3",
+        "id": "2cfb00a0163e9215",
         "type": "tabs",
         "children": [
           {
-            "id": "734380b12d5abff8",
+            "id": "18e2d1237d81c7d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2dac46672d413336",
+            "id": "1fbc5f6833289239",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "d98a2781d529c0e2",
+            "id": "44664181fdc8350d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "8b29c377f5a89926",
+    "id": "d02e3f8d1ce846f1",
     "type": "split",
     "children": [
       {
-        "id": "c155da5464982044",
+        "id": "7196ecb520dbaf47",
         "type": "tabs",
         "children": [
           {
-            "id": "93dd6be63729c1fe",
+            "id": "5530b17e790a780a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "4fb637fdb6df730c",
+            "id": "eec7fdb3547dc936",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "80d8e17afb632176",
+            "id": "3b641e0da8fe35be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "83be84fc2991c236",
+            "id": "373443809f2d711b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,20 +146,8 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0020aab1fbe0e963",
+  "active": "4f667b7f81d9c75f",
   "lastOpenFiles": [
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/1. Introdução.md",
-    "Estudos Back-End/Imagens/Pasted image 20240919142447.png",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/3. Mensagens de solicitação e resposta HTTP.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/2. Servidor Apache HTTP ou Servidor Apache Tomcat.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Métodos de solicitação HTTP.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Requisição de Metodos HTTP.md",
-    "Estudos Back-End/Imagens/Pasted image 20240916221935.png",
-    "Estudos Back-End/Imagens/Pasted image 20240916213214.png",
-    "Estudos Back-End/Imagens/Pasted image 20240916212133.png",
-    "Estudos Back-End/Imagens/Pasted image 20240916204608.png",
-    "Estudos Back-End/Imagens/Pasted image 20240916204336.png"
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md"
   ]
 }
