@@ -8,18 +8,34 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6c74f7f269ae2355",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
+                "viewState": {
+                  "x": 492.1352201257862,
+                  "y": 1208.7840670859537,
+                  "zoom": -1.5839539756602405
+                }
+              }
+            }
+          },
+          {
             "id": "4f667b7f81d9c75f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md",
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/6. Métodos menos usados.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md",
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/6. Métodos menos usados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md",
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/6. Métodos menos usados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md"
+                "file": "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/6. Métodos menos usados.md"
               }
             }
           }
@@ -149,10 +165,15 @@
   "active": "4f667b7f81d9c75f",
   "lastOpenFiles": [
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/0. HTTP.canvas",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/6. Métodos menos usados.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/9. Negociação de Tipo de Conteúdo.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/1. Introdução.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/7. Método de solicitação POST.md",
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/5. Método de solicitação GET.md",
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/8. URL e URI.md",
+    "URL e URI.md",
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/4. Métodos de solicitação HTTP.md",
     "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/3. Mensagens de solicitação e resposta HTTP.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/2. Servidor Apache HTTP ou Servidor Apache Tomcat.md",
-    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/1. Introdução.md"
+    "Estudos Back-End/Back-End/Básico/Como Funciona HTTP/2. Servidor Apache HTTP ou Servidor Apache Tomcat.md"
   ]
 }

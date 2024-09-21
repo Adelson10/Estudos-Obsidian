@@ -6,7 +6,11 @@
 		{"id":"b621f73cb7847d36","type":"text","text":"[[1. Introdução]]","x":69,"y":-104,"width":262,"height":74,"color":"4"},
 		{"id":"fcca6d582b4ae75e","type":"text","text":"[[3. Mensagens de solicitação e resposta HTTP]]","x":-13,"y":400,"width":427,"height":100,"color":"4"},
 		{"id":"4cbe80b060c5afe3","type":"text","text":"[[4. Métodos de solicitação HTTP]]","x":-4,"y":680,"width":410,"height":100,"color":"4"},
-		{"id":"05bc2ee748667604","type":"text","text":"[[5. Método de solicitação GET]]","x":-10,"y":920,"width":427,"height":100,"color":"2"}
+		{"id":"05bc2ee748667604","type":"text","text":"[[5. Método de solicitação GET]]","x":-10,"y":920,"width":427,"height":100,"color":"4"},
+		{"id":"8a08a5435b1a22bf","type":"text","text":"[[6. Métodos menos usados]]","x":-10,"y":1220,"width":427,"height":100,"color":"2"},
+		{"id":"acc4fdc457318115","type":"text","text":"[[7. Método de solicitação POST]]","x":-10,"y":1520,"width":427,"height":100,"color":"2"},
+		{"id":"9e96a1d6b005bc2d","type":"text","text":"[[8. URL e URI]]","x":20,"y":1840,"width":368,"height":80,"color":"2"},
+		{"id":"79e9cc80ab5a3043","x":13,"y":2080,"width":382,"height":120,"color":"2","type":"text","text":"[[9. Negociação de Tipo de Conteúdo]]"}
 	],
 	"edges":[
 		{"id":"9579f7768e2fda47","fromNode":"2f094d83deea6463","fromSide":"bottom","toNode":"cc0aea94b4a58d0f","toSide":"top"},
@@ -14,6 +18,10 @@
 		{"id":"08786b871cdb48d6","fromNode":"b621f73cb7847d36","fromSide":"bottom","toNode":"68f0f01988769f3f","toSide":"top"},
 		{"id":"2cb4ce8fbbf309da","fromNode":"4cbe80b060c5afe3","fromSide":"bottom","toNode":"05bc2ee748667604","toSide":"top"},
 		{"id":"1815fc6a9803d8bb","fromNode":"68f0f01988769f3f","fromSide":"bottom","toNode":"fcca6d582b4ae75e","toSide":"top"},
-		{"id":"dfb6a5cd1e8d43da","fromNode":"fcca6d582b4ae75e","fromSide":"bottom","toNode":"4cbe80b060c5afe3","toSide":"top"}
+		{"id":"dfb6a5cd1e8d43da","fromNode":"fcca6d582b4ae75e","fromSide":"bottom","toNode":"4cbe80b060c5afe3","toSide":"top"},
+		{"id":"4da94c136dd893ac","fromNode":"05bc2ee748667604","fromSide":"bottom","toNode":"8a08a5435b1a22bf","toSide":"top"},
+		{"id":"732f7cf0f505eb96","fromNode":"8a08a5435b1a22bf","fromSide":"bottom","toNode":"acc4fdc457318115","toSide":"top"},
+		{"id":"abe4c6065143cb4f","fromNode":"acc4fdc457318115","fromSide":"bottom","toNode":"9e96a1d6b005bc2d","toSide":"top"},
+		{"id":"1a6ea92d9a028b0d","fromNode":"9e96a1d6b005bc2d","fromSide":"bottom","toNode":"79e9cc80ab5a3043","toSide":"top"}
 	]
 }
